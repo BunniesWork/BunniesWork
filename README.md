@@ -22,7 +22,7 @@
           <img width="20" src="https://media4.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" /> <a href="https://www.instagram.com/bunnieswork/">Follow me on Instagram</a>
         </li>
         <li>
-          <img width="20" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" /> <a href="https://www.youtube.com/channel/UC0QaDi9efWA8yIZkD8lTWhw_confirmation=1">Subscribe on Youtube</a> 
+          <img width="20" src="https://cliply.co/wp-content/uploads/2019/07/371907120_YOUTUBE_ICON_TRANSPARENT_400.gif" /> <a href="https://www.youtube.com/channel/UC0QaDi9efWA8yIZkD8lTWhw">Subscribe on Youtube</a> 
         </li>
         <li>
           <img width="20" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" /> <a href="https://medium.com/@bunniesworkr">Medium.</a>
