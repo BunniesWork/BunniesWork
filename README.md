@@ -43,3 +43,7 @@
 
 <h1 align="left">Bunnies Work ® Social Media: </h1> 
 
+## License
+
+© Bunnieswork, 2021. Licensed under an [Apache-2](LICENSE) license.
+
